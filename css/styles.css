@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(240, 240, 247);
+}
+.tropical {
+    font-family: fantasy;
+}
+h3.tropical {
+    color: #f7325e;
+    text-align: center;
+}
+p.tropical, ul.tropical {
+    color: #7dc410;
+}
+.popular {
+    color: rgb(228, 11, 40);
+}
+h3.popular {
+    text-align: center;
+}
+p.popular {
+    text-transform: capitalize;
+}
+h1 {
+    text-align: center;
+}
+ul {
+    line-height: 25px;
+}
